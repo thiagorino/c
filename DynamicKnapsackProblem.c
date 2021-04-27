@@ -1,4 +1,4 @@
-/* Edivan Amorim - 41882091 | Paolo Filipi - 41880171 | Thiago Ribeiro - 41891147 */
+
 #include <stdio.h>
 #define MAX(x, y) (((x) > (y)) ? (x) : (y))
 #define lengthMax 6
